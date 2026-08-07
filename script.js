@@ -43,4 +43,10 @@ function generateMessage() {
     return `${beginning} ${event}. ${ending} ${mood} ${luckyItem}`;
 }
 
+console.log(`
+  /\\_/\\\\
+ ( o.o )
+  > ^ <
+`);
+
 console.log(generateMessage());
